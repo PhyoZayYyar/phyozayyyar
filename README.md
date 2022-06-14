@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Phyo Si Thu (Or) Phyo Zay YYar</h1>
+<h1 align="center">Hi 👋, I'm Phyo Si Thu (Or) Phyo Zay Yyar</h1>
 <h3 align="center">A passionate full stack developer from Myanmar</h3>
 <img align="right" alt="Coding" width="400" height="400" src"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
