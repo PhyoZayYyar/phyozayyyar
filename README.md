@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Phyo Si Thu (Or) Phyo Zay YYar</h1>
 <h3 align="center">A passionate full stack developer from Myanmar</h3>
-<img align="right" alt="Coding" width="400" src"https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt="Coding" width="400" height="400" src"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 💬 Ask me about **Vue,Laravel**
 
