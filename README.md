@@ -15,7 +15,7 @@
 
 
 
-# Github Profile Generator
+# Github Porfolio Generator
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 
